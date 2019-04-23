@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int a, n, i, suma;
+	double a, n, i, suma;
 	cout << "Insertar numero de terminos: ";
 	cin >> n;
 	cout << "Insertar valor de a: ";
